@@ -15,8 +15,8 @@ Customizable Output Formats: Provides options to export extracted data in variou
 
 Error Handling and Logging: Implements robust error handling mechanisms to manage exceptions gracefully, ensuring reliable performance even with challenging PDF documents.
 
-**Benefits:
-**
+**Benefits:**
+
 Time-Saving: Significantly reduces the time and effort required for manual data extraction tasks, boosting productivity and efficiency.
 
 Accuracy: Ensures accurate extraction of data by leveraging advanced pattern matching algorithms, minimizing errors and inaccuracies in extracted information.
